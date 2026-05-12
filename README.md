@@ -1,15 +1,17 @@
 # Clinical AI Assistant · On-Premise
 
 **Live demonstration / Video presentation**  
-Scan the QR code or open the link below:
+Scan the QR code for my LinkedIn profile :
 
 <p align="center">
   <img src="linkedin.png" width="180">
 </p>
 
-🔗Demo video:  
+Or click on the following link :
+
 [https://www.linkedin.com/in/pinto-katende](https://www.linkedin.com/in/pinto-katende/)
 
+🔗Demo video:  
 ---
 
 ## Overview
