@@ -26,7 +26,7 @@
   
 🎥 **Watch the video demonstration**
 
-![Demo](https://github.com/jonathankatende/clinical-ai-assistant-onpremise/raw/main/x1_Poster_Vidpresentation.mp4)
+https://github.com/user-attachments/assets/e1616ef0-d992-4166-ab72-a22779ab9db2
 
 *Click the image to play the demo video.*
 
