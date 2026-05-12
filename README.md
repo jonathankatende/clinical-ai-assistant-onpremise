@@ -17,6 +17,18 @@ Or click on the following link :
 [https://www.linkedin.com/in/pinto-katende](https://www.linkedin.com/in/pinto-katende/)
 
 🔗Demo video:  
+
+## 🎥 Video Demonstration
+
+<p align="center">
+  <a href="x1_Poster_Vidpresentation.mp4">
+    <img src="demo_thumbnail.png" width="850">
+  </a>
+</p>
+
+<p align="center">
+  ▶ Click the image above to play the demonstration video
+</p>
 ---
 
 ### Conversational Clinical Assistant
