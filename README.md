@@ -3,7 +3,9 @@
 **Live demonstration / Video presentation**  
 Scan the QR code or open the link below:
 
-[Add QR Code Here]
+<p align="center">
+  <img src="linkedin.png" width="180">
+</p>
 
 🔗Demo video:  
 [https://www.linkedin.com/in/pinto-katende](https://www.linkedin.com/in/pinto-katende/)
