@@ -20,7 +20,12 @@ Or click on the following link :
 
 ## 🎥 Video Demonstration
 
-[▶ Click here to watch the demo video](https://raw.githubusercontent.com/jonathankatende/clinical-ai-assistant-onpremise/main/x1_Poster_Vidpresentation.mp4)
+## 🎥 Video Demonstration
+
+<video width="900" controls>
+  <source src="x1_Poster_Vidpresentation.mp4" type="video/mp4">
+</video>
+
 ---
 
 ### Conversational Clinical Assistant
