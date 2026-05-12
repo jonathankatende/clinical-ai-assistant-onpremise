@@ -14,6 +14,10 @@ Or click on the following link :
 🔗Demo video:  
 ---
 
+### Conversational Clinical Assistant
+
+![Chat](chat.png)
+
 ## Overview
 
 Clinical AI Assistant · On-Premise is a privacy-preserving clinical decision support prototype designed to demonstrate how clinicians can interact with local clinical datasets and predictive machine learning models using natural language.
