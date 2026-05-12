@@ -20,8 +20,6 @@ Or click on the following link :
 
 ## 🎥 Video Demonstration
 
-## 🎥 Video Demonstration
-
 <video width="900" controls>
   <source src="x1_Poster_Vidpresentation.mp4" type="video/mp4">
 </video>
