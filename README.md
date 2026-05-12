@@ -23,13 +23,12 @@
 ## 📺 Live Demonstration
 
 <div align="center">
+  
+🎥 **Watch the video demonstration**
 
-**🎥 Watch the video demonstration**
+[![Watch the demo](video_thumbnail.png)](x1_Poster_Vidpresentation.mp4)
 
-<video width="900" controls>
-  <source src="x1_Poster_Vidpresentation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+*Click the image to play the demo video.*
 
 </div>
 
