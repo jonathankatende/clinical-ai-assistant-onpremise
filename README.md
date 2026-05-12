@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![License](https://img.shields.io/badge/Research-Prototype-green)
+![Local AI](https://img.shields.io/badge/Execution-LocalOnly-purple)
+
 # Clinical AI Assistant · On-Premise
 
 **Live demonstration / Video presentation**  
