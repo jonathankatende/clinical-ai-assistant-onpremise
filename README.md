@@ -1,26 +1,35 @@
 # Clinical AI Assistant · On-Premise
 
-A privacy-preserving clinical AI assistant allowing clinicians to interact with local clinical datasets and machine learning models using natural language.
+**Live demonstration / Video presentation**  
+Scan the QR code or open the link below:
 
-Built as a local agentic AI framework combining:
-- local machine learning models,
-- conversational AI,
-- SHAP explainability,
-- role-based access control,
-- audit logging,
-- and on-premise execution.
+[Add QR Code Here]
+
+🔗Demo video:  
+[https://www.linkedin.com/in/pinto-katende](https://www.linkedin.com/in/pinto-katende/)
 
 ---
 
-## Features
+## Overview
+
+Clinical AI Assistant · On-Premise is a privacy-preserving clinical decision support prototype designed to demonstrate how clinicians can interact with local clinical datasets and predictive machine learning models using natural language.
+
+The system combines conversational AI, local machine learning inference, explainability tools and role-based access control while ensuring that all computations remain entirely inside the local environment.
+
+No external API calls or cloud-based inference are required.
+
+---
+
+## Key Features
 
 - Natural language interaction with clinical datasets
-- Local predictive models (Random Forest / Logistic Regression)
+- Local predictive machine learning models
 - SHAP-based explainability
 - Cohort statistics and visualizations
 - Role-based access control (RBAC)
-- Audit logging
-- 100% local execution (no external API calls)
+- Audit logging and traceability
+- Fully local execution
+- Privacy-preserving architecture
 
 ---
 
@@ -28,17 +37,18 @@ Built as a local agentic AI framework combining:
 
 The assistant can:
 
-- Predict tumor malignancy
-- Explain predictions using SHAP
+- Predict tumor malignancy using local ML models
+- Explain predictions using SHAP feature contributions
 - Generate pie charts and cohort visualizations
 - Retrieve local patient records
 - Compute cohort statistics
-- Interact through plain English queries
+- Support conversational clinical queries
 
-Example prompts:
+### Example prompts
 
 ```text
 How many malignant cases are in the database?
 Predict whether patient #12 has a malignant tumor.
 Explain the prediction for patient #7.
 Generate a pie chart of diagnosis classes.
+Show patient #42 record.
